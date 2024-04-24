@@ -1,3 +1,5 @@
+Leia o arquivo documentation.pdf
+
 Crie um ambinte de desenvolvimento
 - python -m venv meuAmbiente
 
