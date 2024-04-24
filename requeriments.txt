@@ -1,0 +1,6 @@
+msal
+python-decouple
+pandas
+openpyxl
+wget
+azure-storage-blob
